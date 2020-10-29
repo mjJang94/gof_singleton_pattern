@@ -15,5 +15,6 @@ class SubActivity : AppCompatActivity() {
     private fun init(){
         txt_receive_name.text = Singleton.name
         txt_receive_age.text = Singleton.age
+        Singleton.showResult()
     }
 }
