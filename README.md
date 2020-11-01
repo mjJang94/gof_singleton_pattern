@@ -1,0 +1,2 @@
+# gof_singleton_pattern
+gof_singleton_pattern
